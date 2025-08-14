@@ -47,6 +47,10 @@ Provides a set of recommended aspect ratios for Qwen-Image, along with a "Custom
 3.  重启 ComfyUI。
 
 ---
+## 更新日志
+
+2025-08-14更新适配里布训练的lora模型
+
 
 ## 使用说明 (Usage)
 
